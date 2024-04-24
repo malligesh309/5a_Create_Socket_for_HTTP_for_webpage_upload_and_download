@@ -58,7 +58,7 @@ if __name__ == "__main__":
 
 ```
 ## Output :
-![image](https://github.com/malligesh309/5a_Create_Socket_for_HTTP_for_webpage_upload_and_download/assets/140491043/9a8eb73e-2f36-4e30-b1f3-ea0f6e961522)
+![image](https://github.com/malligesh309/5a_Create_Socket_for_HTTP_for_webpage_upload_and_download/assets/140491043/fbfa61bf-5150-4e98-9bba-388cba481e84)
 
 
 
